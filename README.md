@@ -12,7 +12,7 @@ Se adjuntan 2 carpetas llamadas ***Ejercicio1*** y ***Ejercicio2***. Cada una de
 
 Por otra parte, existen 3 ficheros llamados ***alumnos.dat***, ***alumnos.hash*** y ***alumnos.idx***. El primer fichero se utilizará para las pruebas con las ***organización indexada*** mientras que el segundo fichero se utilizará para las pruebas con las ***organización directa (dispersión)***. El tercer fichero se obtendrá como resultado al probar las funciones del ejercicio 1.
 
-Adicionalmente, se incluye un fichero llamado *prueba.c* que contiene un codigo para probar la correcta implementación de las funciones sobre memoria secuendaria.  
+Adicionalmente, se incluye un fichero llamado *prueba.c* que contiene un código para probar la correcta implementación de las funciones sobre memoria secuendaria.  
 
 También se incluye un fichero *makefile* que contiene las directivas necesarias para compilar dicho fichero incluyendo las funciones implementadas en el Ejercicio 1 y en el Ejercicio 2.
 
@@ -33,3 +33,13 @@ Para ejecutar el programa, bastará con introducir el siguiente comando por la t
 # - Ejemplo de ejecución
 
 En las siguientes imagenes, se muestra un ejemplo del uso y funcionamiento del programa:    
+
+![Ejemplo ejecucion 1](https://github.com/rmelgo/EDA-II_Memoria-Secundaria/assets/145989723/12fce24d-9231-4b6e-87e2-764628f42809)
+![Ejemplo ejecucion 2](https://github.com/rmelgo/EDA-II_Memoria-Secundaria/assets/145989723/a7c1f3a8-ec8c-456c-ab3d-42aec174e776)
+![Ejemplo ejecucion 3](https://github.com/rmelgo/EDA-II_Memoria-Secundaria/assets/145989723/b8cfa6c4-6b86-4d6d-a91e-0d552587b318)
+![Ejemplo ejecucion 4](https://github.com/rmelgo/EDA-II_Memoria-Secundaria/assets/145989723/e9628b1b-94b9-49cc-a3be-e18a84a5484a)
+![Ejemplo ejecucion 5](https://github.com/rmelgo/EDA-II_Memoria-Secundaria/assets/145989723/be215e2e-f1c2-4adf-9811-165508f96374)
+![Ejemplo ejecucion 6](https://github.com/rmelgo/EDA-II_Memoria-Secundaria/assets/145989723/6aa79f0b-4d13-49b1-a8da-437a391581e8)
+![Ejemplo ejecucion 7](https://github.com/rmelgo/EDA-II_Memoria-Secundaria/assets/145989723/9ac05a67-76a2-4074-b4ff-2099c6f61015)
+
+
