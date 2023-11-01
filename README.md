@@ -2,7 +2,7 @@
 
 # - Introducción
 
-Proyecto realizado en la asignatura de Estructuras de Datos y Algortimos II del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra subido en el repositorio en un archivo pdf llamado *EntregaMemoriaSecundaria2021.pdf*.  
+Proyecto realizado en la asignatura de ***Estructuras de Datos y Algortimos II*** del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra subido en el repositorio en un archivo PDF llamado <a href="https://github.com/rmelgo/EDA-II-Memoria-Secundaria/blob/main/EntregaMemoriaSecundaria2021.pdf" target="_blank">*EntregaMemoriaSecundaria2021.pdf*</a>.  
   
 El principal objetivo de este proyecto es la implementación de funciones en el lenguaje C que trabajen con la ***organización indexada*** y la ***organización directa (dispersión)***. Para ello, se dispondran de varios archivos almacenados en memoria secuendaria los cuales serán utilizados para probar el correcto funcionamiento de las funciones implementadas.
 
@@ -14,7 +14,7 @@ Por otra parte, existen 3 ficheros llamados ***alumnos.dat***, ***alumnos.hash**
 
 Adicionalmente, se incluye un fichero llamado *prueba.c* que contiene un código para probar la correcta implementación de las funciones sobre memoria secuendaria.  
 
-También se incluye un fichero *makefile* que contiene las directivas necesarias para compilar dicho fichero incluyendo las funciones implementadas en el Ejercicio 1 y en el Ejercicio 2.
+También se incluye un fichero *makefile* que contiene las directivas necesarias para compilar dicho fichero incluyendo las funciones implementadas en el ***Ejercicio 1*** y en el ***Ejercicio 2***.
 
 # - Comentarios sobre la ejecución
 
@@ -42,4 +42,8 @@ En las siguientes imagenes, se muestra un ejemplo del uso y funcionamiento del p
 ![Ejemplo ejecucion 6](https://github.com/rmelgo/EDA-II_Memoria-Secundaria/assets/145989723/6aa79f0b-4d13-49b1-a8da-437a391581e8)
 ![Ejemplo ejecucion 7](https://github.com/rmelgo/EDA-II_Memoria-Secundaria/assets/145989723/9ac05a67-76a2-4074-b4ff-2099c6f61015)
 
+# - Participantes
 
+<table>
+  <td align="center"><a href="https://github.com/rmelgo"><img src="https://avatars.githubusercontent.com/u/145989723?s=400&u=e5c06adba3f3c418207178abc845d398b3d5f77f&v=4" width="100px;" alt=""/><br /><sub><b>Raúl Melgosa</b></sub></a><br/> 
+</table>
